@@ -1,0 +1,44 @@
+
+h3{
+    font-family: 'Titillium Web', sans-serif; 
+    text-decoration: none;
+    color: black;
+    font-size: 60px !important;
+}
+
+body {
+height: auto;
+width: 100%;
+    background-image: url(../images/gettyimages-472336288-612x612.jpg);
+    font-family: 'Titillium Web', sans-serif;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: center;
+    flex-flow: column;
+    height: -webkit-fill-available;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 50px;
+  display: flex;
+  align-items: center;
+  padding: 5%;
+
+}
+
+#buscar{
+    width: 21vh;
+    height: 5vh;
+    border-radius: 8%;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 17px;
+}
+
+label{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 26px;
+}
+
+#localizacion{
+
+    border-radius: 8%;
+    font-size: 17px;
+}

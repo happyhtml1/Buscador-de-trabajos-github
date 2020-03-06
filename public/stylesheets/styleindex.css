@@ -1,0 +1,35 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  background-image: url(../images/photo-1511649475669-e288648b2339.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  flex-flow: column;
+  height: -webkit-fill-available;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#boton{
+  width: 25vh;
+    height: 14vh;
+    border-radius: 62%;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: larger;
+}
+
+#boton:hover{
+  background-color: #aee49f;
+  font-weight: 900;
+  /* border: 1px solid #aee49f; */
+}
+
+
+h1{
+  font-size: 10vh;
+}
+p{
+  font-size: 5vh;
+}
